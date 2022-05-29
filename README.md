@@ -1,1 +1,1 @@
-# Currency-Covertor
+# Currency converter
